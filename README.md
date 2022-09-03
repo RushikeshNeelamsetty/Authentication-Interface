@@ -1,7 +1,7 @@
 # Login-Application
 Date of Creation: 29.03.2022
 
-CSM 2020-24
+C.S.E. (A.I. & M.L.) 2020-24
 
 Anil Neerukonda Institute of Technology and Sciences
 
