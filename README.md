@@ -57,3 +57,57 @@ By this we complete the registration of a user.
 *	Once the username is entered it is checked whether it already exists in the database so that there is no ambiguity while logging in.
 *	While storing the credentials it is encrypted using Base64 encryption so that even when the LoginData file is opened by a third party he/she is unable to read the contents.
 
+# Source Code 
+[Click Here for source code.](https://github.com/RushikeshNeelamsetty/Login-Application/blob/main/Code.md)
+
+# What you'd see while using the application
+* Opening frame:
+
+![image](https://user-images.githubusercontent.com/102282401/188265178-e7d630c8-3174-4ff8-9cd5-c81ec4a23a99.png)
+
+* When the user tries to login unregistered
+
+![image](https://user-images.githubusercontent.com/102282401/188265219-a1e4506a-522e-4ae4-be0e-63f496b435d3.png)
+
+* Frame with Registration form
+ 
+![image](https://user-images.githubusercontent.com/102282401/188265247-4b943792-472d-42fb-a970-a7e4fe12f663.png)
+
+* Case when the password does not meet required criteria
+
+![image](https://user-images.githubusercontent.com/102282401/188265315-cb157675-852b-483c-8c74-5f2867c401bf.png)
+
+* Case where the entered passwords do not match during registration
+
+![image](https://user-images.githubusercontent.com/102282401/188265337-b9b5dbfd-5dcd-4b2e-b608-249b56b01286.png)
+
+* When another person tries to register with an already existing username 
+
+![image](https://user-images.githubusercontent.com/102282401/188265361-67dece4f-9b62-491f-8851-6592b6d04a5c.png)
+
+* Registration form, filled with password satisfying all the criterias and no other user already registered with the same username(here a text file).
+
+![image](https://user-images.githubusercontent.com/102282401/188265428-048d25ca-735f-43b5-9c1e-176c4e8b62af.png)
+
+It shows no error and you would be taken to the login frame.
+
+* When a person enters a correct username and wrong password
+
+![image](https://user-images.githubusercontent.com/102282401/188265457-cebe742f-8e3a-4e27-becd-49282c17edfd.png)
+
+* When user enters right username and password
+
+![image](https://user-images.githubusercontent.com/102282401/188265472-610da068-eb4c-4083-8af1-4410615539c5.png)
+
+It doesn't show any prompts rather it would take you to the frame below.
+
+* Successful Login
+
+![image](https://user-images.githubusercontent.com/102282401/188265494-2c51962c-9d26-454f-81b4-1e0902cea98c.png)
+
+* The text file which stores all the usernames and passwords. The text file acts as a makeshift database, storing all the user credentials using Base64 encryption.
+
+![image](https://user-images.githubusercontent.com/102282401/188265551-d0936a8f-c893-4f8b-84f1-2e468195be52.png)
+
+
+
