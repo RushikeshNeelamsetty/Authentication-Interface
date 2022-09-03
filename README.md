@@ -8,7 +8,7 @@ Anil Neerukonda Institute of Technology and Sciences
 **People involved:** 
 
 * 320126552027      Surakattula Goutham 
-* 320126552023      Neelamsetty Sai Venkata Rushikesh ( Team Leader )
+* 320126552023      Neelamsetty Sai Venkata Rushikesh ( Team Lead )
 * 320126552004      Buddala Devi Lalli Sri 
 * 320126552007      Dodda Sai Sirisha  
 * 320126552011      Garimella Sree Harshitha
