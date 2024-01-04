@@ -1,4 +1,4 @@
-# Login-Application
+# Authentication Interface
 Date of Creation: 29.03.2022
 
 C.S.E. (A.I. & M.L.) 2020-24
